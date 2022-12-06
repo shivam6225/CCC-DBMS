@@ -1,2 +1,2 @@
 # CCC-DBMS
-All CCC DBMS SQL questions from Hackerrank
+All CCC DBMS SQL questions from Hackerrank Platform
